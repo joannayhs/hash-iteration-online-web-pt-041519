@@ -13,5 +13,4 @@ def select_winner(passengers)
       puts passenger
     end 
   end
-  
 end
